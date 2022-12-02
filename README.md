@@ -1,7 +1,9 @@
 **Hi, I'm Ewan!**
-I’m interested in Aviation and Computers.
-- I'm learning web development at the moment.
 
+I’m interested in Aviation and Programing.
+- I'm learning web development at the moment.
+- I know a bit of python.
+- I love discord bots.
 
 <!---
 emaccode/emaccode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
